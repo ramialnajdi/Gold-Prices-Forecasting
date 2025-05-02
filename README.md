@@ -30,7 +30,7 @@ This repository contains a comprehensive analysis of gold price forecasting usin
 ## 🛠️ Technical Implementation
 - **Python Libraries Used**:
   ```python
-  statsmodels, pmdarima, sklearn, lightgbm, xgboost, tensorflow/keras, pytorch
+  statsmodels, statsforecast, mlforecast, sklearn, lightgbm, xgboost, tensorflow/keras, pytorch
 
 
 **Disclaimer**: This project is for **educational and research purposes only**. Not financial advice. Models are simplified for learning and may not reflect real market conditions.
