@@ -16,7 +16,6 @@ This repository contains a comprehensive analysis of gold price forecasting usin
 
 🔗 **Related Publication**:  
 [Time-Series Machine Learning Approaches in Analyzing and Forecasting Gold Price](https://www.researchgate.net/publication/391271504)  
-*Published in [Journal Name], [Year]*
 
 
 ## 🧠 Models Implemented
@@ -33,7 +32,8 @@ This repository contains a comprehensive analysis of gold price forecasting usin
   ```python
   statsmodels, pmdarima, sklearn, lightgbm, xgboost, tensorflow/keras, pytorch
 
-  **Disclaimer**: This project is for **educational and research purposes only**. Not financial advice. Models are simplified for learning and may not reflect real market conditions.
+
+**Disclaimer**: This project is for **educational and research purposes only**. Not financial advice. Models are simplified for learning and may not reflect real market conditions.
 
 
 
